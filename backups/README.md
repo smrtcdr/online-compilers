@@ -1,2 +1,1 @@
-
-# Backups of GitHub projects
+Backups of GitHub projects
