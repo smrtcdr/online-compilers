@@ -21,6 +21,11 @@
 | [CodingGround](https://www.tutorialspoint.com/codingground.htm) ||||||||
 | [C++ Shell](http://cpp.sh) ||||||||
 
+Unspecified:
+
+https://ide.geeksforgeeks.org
+https://code.hackerearth.com
+https://godbolt.org
 
 ## List of online shells
 
