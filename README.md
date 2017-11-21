@@ -20,12 +20,13 @@
 | [RexTester](http://rextester.com) ||||||||
 | [CodingGround](https://www.tutorialspoint.com/codingground.htm) ||||||||
 | [C++ Shell](http://cpp.sh) ||||||||
+| [GeeksforGeeks](https://ide.geeksforgeeks.org) ||||||||
+| [CodeTable](https://code.hackerearth.com) ||||||||
 
 Unspecified:
 
-https://ide.geeksforgeeks.org
-https://code.hackerearth.com
-https://godbolt.org
+[Compiler Explorer](https://godbolt.org)
+
 
 ## List of online shells
 
