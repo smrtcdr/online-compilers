@@ -7,4 +7,4 @@
 
 | Name | GitHub | C | C++ | C# | Python | Ruby | Notes |
 |------|:------:|:-:|:---:|:--:|:------:|:----:|-------|
-| [hackIDE](http://hackide.herokuapp.com) | https://github.com/sahildua2305/hackIDE | x | x | x | ✔️ | ✔️ | |
+| [hackIDE](http://hackide.herokuapp.com) | https://github.com/sahildua2305/hackIDE | x | x | x | x | x | |
