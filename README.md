@@ -1,4 +1,6 @@
-# Online Compilers/Debuggers/IDEs/Shells
+# Online Tools
+
+Here you can find a list of online tools for coding. Most of them are web frontends for compilers and programs running on remote server. Whenever possible, links to corresponding GitHub projects will be given. 
 
 ## List of online C++ compilers
 (see https://github.com/arnemertz/online-compilers/blob/master/index.md for reference)
@@ -25,8 +27,12 @@
 
 Unspecified:
 
-[Compiler Explorer](https://godbolt.org)
-
+* [CompilerExplorer](https://godbolt.org)
+* [Radare2](http://cloud.radare.org/enyo)
+* [disassembler.io](http://disassembler.io)
+* [shell-storm asm/disasm](http://shell-storm.org/online/Online-Assembler-and-Disassembler/)
+* [LearnC](https://www.learn-c.org)/[C++](https://www.learn-cpp.org)/[C#](https://www.learncs.org) (on [Sphere Engine](https://sphere-engine.com))
+* [Learn Python](https://www.learnpython.org) (on [DataCamp](https://www.datacamp.com))
 
 ## List of online shells
 
