@@ -1,6 +1,6 @@
 # Online Tools
 
-Here you can find a list of online tools for coding. Most of them are web frontends for compilers and programs running on remote server. Whenever possible, links to corresponding GitHub projects will be given. 
+Here you can find a list of online tools for coding. Most of them are web frontends for compilers and programs running on remote server. Whenever possible, links to corresponding GitHub projects will be given. Some really ugly looking pages I would never use were removed.
 
 ## List of online C++ compilers
 (see https://github.com/arnemertz/online-compilers/blob/master/index.md for reference)
