@@ -14,18 +14,18 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 
 | Name | C | C++ | C# | Python | Ruby | Notes | API | Terminal | GitHub |
 |------|:-:|:---:|:--:|:------:|:----:|:-----:|:---:|:--------:|:------:|
-| [Sphere Engine (new)](https://ide.sphere-engine.com) |x|x|x|x|x|allows download!|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|x|-|
-| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) |x|x|x|x|x||[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
-| [hackIDE](http://hackide.herokuapp.com) |x|x|x|x|x| gcc4.8.1, py273|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|[src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
-| [ideone](https://ideone.com) |x|x|x|x|x|C++14|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
-| [JDoodle](https://www.jdoodle.com) |x|x|x|x|x|C++17|[JDoodle](https://www.jdoodle.com/compiler-api)|-|-|
-| [CodeChef](https://www.codechef.com/ide) |x|x|x|x|x|C++14|-|-|-|
-| [Repl.It](https://repl.it) |x|x|x|x|x|bash|-|x|-|
-| [RexTester](http://rextester.com) |x|x|x|x|x|C++11|POST|-|-|
-| [CodingGround](https://www.tutorialspoint.com/codingground.htm) |x|x|x|x|x|bash|-|-|-|
-| [GeeksforGeeks](https://ide.geeksforgeeks.org) |x|x|x|x|-|C++14|-|-|-|
-| [CodeTable](https://code.hackerearth.com) |x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|-|
-| [C++ Shell](http://cpp.sh) |-|x|-|-|-|-|-|-|-|
+| [Sphere Engine (new)](https://ide.sphere-engine.com)|x|x|x|x|x|allows download!|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|x|-|
+| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler)|x|x|x|x|x|bash|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
+| [hackIDE](http://hackide.herokuapp.com)|x|x|x|x|x|c++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|[src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
+| [ideone](https://ideone.com)|x|x|x|x|x|C++14|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
+| [JDoodle](https://www.jdoodle.com)|x|x|x|x|x|C++17|[JDoodle](https://www.jdoodle.com/compiler-api)|-|-|
+| [CodeChef](https://www.codechef.com/ide)|x|x|x|x|x|C++14|-|-|-|
+| [Repl.It](https://repl.it)|x|x|x|x|x|bash|-|x|-|
+| [RexTester](http://rextester.com)|x|x|x|x|x|C++11|POST|-|-|
+| [CodingGround](https://www.tutorialspoint.com/codingground.htm)|x|x|x|x|x|bash|-|-|-|
+| [GeeksforGeeks](https://ide.geeksforgeeks.org)|x|x|x|x|-|C++14|-|-|-|
+| [CodeTable](https://code.hackerearth.com)|x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|-|
+| [C++ Shell](http://cpp.sh)|-|x|-|-|-|-|-|-|-|
 
 Unspecified:
 
