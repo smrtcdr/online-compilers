@@ -12,19 +12,20 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 
 ## List of online IDEs
 
-| Name | C | C++ | C# | Python | Ruby | Notes | API | IDE | GitHub |
-|------|:-:|:---:|:--:|:------:|:----:|-------|:---:|:---:|:------:|
-| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) | x | x | x | x | x |||||
+| Name | C | C++ | C# | Python | Ruby | Notes | API | Terminal | GitHub |
+|------|:-:|:---:|:--:|:------:|:----:|-------|:---:|:--------:|:------:|
+| [Sphere Engine (new)](https://ide.sphere-engine.com) | x | x | x | x | x ||[SphereEngine](https://developer.sphere-engine.com/api/compilers)| x ||
+| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) | x | x | x | x | x ||[SphereEngine](https://developer.sphere-engine.com/api/compilers)|||
 | [hackIDE](http://hackide.herokuapp.com) | x | x | x | x | x | gcc4.8.1, py273|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)||[src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
 | [ideone](https://ideone.com) | x | x | x | x | x | C++14, bash, nasm |[SphereEngine](https://developer.sphere-engine.com/api/compilers)|||
-| [JDoodle](https://www.jdoodle.com) | x | x | x | x | x |C++17||||
-| [CodeChef](https://www.codechef.com/ide) ||||||||||
-| [Repl.It](https://repl.it) ||||||||||
-| [RexTester](http://rextester.com) ||||||||||
-| [CodingGround](https://www.tutorialspoint.com/codingground.htm) ||||||||||
-| [C++ Shell](http://cpp.sh) ||||||||||
-| [GeeksforGeeks](https://ide.geeksforgeeks.org) ||||||||||
-| [CodeTable](https://code.hackerearth.com) ||||||||||
+| [JDoodle](https://www.jdoodle.com) | x | x | x | x | x |C++17|[JDoodle](https://www.jdoodle.com/compiler-api)|||
+| [CodeChef](https://www.codechef.com/ide) | x | x | x | x | x |||||
+| [Repl.It](https://repl.it) | x | x | x | x | x |||||
+| [RexTester](http://rextester.com) | x | x | x | x | x |||||
+| [CodingGround](https://www.tutorialspoint.com/codingground.htm) | x | x | x | x | x |||||
+| [C++ Shell](http://cpp.sh) |-| x | - | - | - |||||
+| [GeeksforGeeks](https://ide.geeksforgeeks.org) | x | x | x | x | - |||||
+| [CodeTable](https://code.hackerearth.com) | x | x | x | x | x ||[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)| - ||
 
 Unspecified:
 
