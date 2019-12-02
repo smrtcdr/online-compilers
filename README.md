@@ -12,19 +12,19 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 
 ## List of online IDEs
 
-| Name | C | C++ | C# | Python | Ruby | Notes | GitHub |
+| Name | C | C++ | C# | Python | Ruby | Notes | API | IDE | GitHub |
 |------|:-:|:---:|:--:|:------:|:----:|-------|:------:|
-| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) | x | x | x | x | x |||
-| [hackIDE](http://hackide.herokuapp.com) | x | x | x | x | x | gcc/g++ 4.8.1, python 2.7.3| [src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
-| [ideone](https://ideone.com) | x | x | x | x | x | C++14, bash, nasm | - |
-| [JDoodle](https://www.jdoodle.com) | x | x | x | x | x |C++17|-|
-| [CodeChef](https://www.codechef.com/ide) ||||||||
-| [Repl.It](https://repl.it) ||||||||
-| [RexTester](http://rextester.com) ||||||||
-| [CodingGround](https://www.tutorialspoint.com/codingground.htm) ||||||||
-| [C++ Shell](http://cpp.sh) ||||||||
-| [GeeksforGeeks](https://ide.geeksforgeeks.org) ||||||||
-| [CodeTable](https://code.hackerearth.com) ||||||||
+| [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) | x | x | x | x | x |||||
+| [hackIDE](http://hackide.herokuapp.com) | x | x | x | x | x | gcc4.8.1, py273|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)||[src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
+| [ideone](https://ideone.com) | x | x | x | x | x | C++14, bash, nasm |[SphereEngine](https://developer.sphere-engine.com/api/compilers)|||
+| [JDoodle](https://www.jdoodle.com) | x | x | x | x | x |C++17||||
+| [CodeChef](https://www.codechef.com/ide) ||||||||||
+| [Repl.It](https://repl.it) ||||||||||
+| [RexTester](http://rextester.com) ||||||||||
+| [CodingGround](https://www.tutorialspoint.com/codingground.htm) ||||||||||
+| [C++ Shell](http://cpp.sh) ||||||||||
+| [GeeksforGeeks](https://ide.geeksforgeeks.org) ||||||||||
+| [CodeTable](https://code.hackerearth.com) ||||||||||
 
 Unspecified:
 
