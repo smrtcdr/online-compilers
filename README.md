@@ -21,11 +21,11 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 | [JDoodle](https://www.jdoodle.com) |x|x|x|x|x|C++17|[JDoodle](https://www.jdoodle.com/compiler-api)|||
 | [CodeChef](https://www.codechef.com/ide) |x|x|x|x|x|||||
 | [Repl.It](https://repl.it) |x|x|x|x|x|||||
-| [RexTester](http://rextester.com) |x|x|x|x|x|||||
+| [RexTester](http://rextester.com) |x|x|x|x|x|-|POST|-|-|
 | [CodingGround](https://www.tutorialspoint.com/codingground.htm) |x|x|x|x|x|||||
-| [C++ Shell](http://cpp.sh) |-|x|-|-|-|||||
-| [GeeksforGeeks](https://ide.geeksforgeeks.org) |x|x|x|x| - |||||
-| [CodeTable](https://code.hackerearth.com) |x|x|x|x|x||[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)| - ||
+| [GeeksforGeeks](https://ide.geeksforgeeks.org) |x|x|x|x|-|C++14||-|-|
+| [CodeTable](https://code.hackerearth.com) |x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|-|
+| [C++ Shell](http://cpp.sh) |-|x|-|-|-|-|-|-|-|
 
 Unspecified:
 
