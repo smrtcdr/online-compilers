@@ -14,10 +14,10 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 
 | Name | C | C++ | C# | Python | Ruby | Notes | GitHub |
 |------|:-:|:---:|:--:|:------:|:----:|-------|:------:|
-| [hackIDE](http://hackide.herokuapp.com) | x | x | x | x | x | gcc/g++ 4.8.1, python 2.7.3| [src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
 | [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler) | x | x | x | x | x |||
-| [ideone](https://ideone.com) | x | x | x | x | x | C++14, Python 2.7.13/3.5, bash, nasm | - |
-| [JDoodle](https://www.jdoodle.com) ||||||||
+| [hackIDE](http://hackide.herokuapp.com) | x | x | x | x | x | gcc/g++ 4.8.1, python 2.7.3| [src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
+| [ideone](https://ideone.com) | x | x | x | x | x | C++14, bash, nasm | - |
+| [JDoodle](https://www.jdoodle.com) | x | x | x | x | x |C++17|-|
 | [CodeChef](https://www.codechef.com/ide) ||||||||
 | [Repl.It](https://repl.it) ||||||||
 | [RexTester](http://rextester.com) ||||||||
