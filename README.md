@@ -28,7 +28,7 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 | [C++ Shell](http://cpp.sh)|-|x|-|-|-|-|-|-|-|
 
 Unspecified:
-
+* [Xterm.js](https://github.com/xtermjs/xterm.js)
 * [CompilerExplorer](https://godbolt.org)
 * [Radare2](http://cloud.radare.org/enyo)
 * [disassembler.io](http://disassembler.io)
