@@ -14,7 +14,7 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 
 | Name | C | C++ | C# | Python | Ruby | Notes | API | Terminal | GitHub |
 |------|:-:|:---:|:--:|:------:|:----:|:-----:|:---:|:--------:|:------:|
-| [Sphere Engine (new)](https://ide.sphere-engine.com)|x|x|x|x|x|allows download!|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|x|-|
+| [Sphere Engine (new)](https://ide.sphere-engine.com)|x|x|x|x|x|allows download!|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|x|[src](https://github.com/sphere-engine)|
 | [Sphere Engine](https://sphere-engine.com/demo/1-online-compiler)|x|x|x|x|x|bash|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
 | [hackIDE](http://hackide.herokuapp.com)|x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|[src](https://github.com/sahildua2305/hackIDE) / [zip](https://github.com/sahildua2305/hackIDE/archive/master.zip) |
 | [ideone](https://ideone.com)|x|x|x|x|x|C++14|[SphereEngine](https://developer.sphere-engine.com/api/compilers)|-|-|
