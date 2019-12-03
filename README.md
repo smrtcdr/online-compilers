@@ -2,14 +2,6 @@
 
 Here you can find a list of online tools for coding. Most of them are web frontends for compilers and programs running on remote server. Whenever possible, links to corresponding GitHub projects will be given. 
 
-## List of online C++ compilers
-(see https://github.com/arnemertz/online-compilers/blob/master/index.md for reference)
-
-## List of online debuggers
-| Name | Supported languages |
-|------|---------------------|
-| [onlineGDB](https://www.onlinegdb.com)| C, C++14, Python3 |
-
 ## List of online IDEs
 
 | Name | C | C++ | C# | Python | Ruby | Notes | API | Terminal | GitHub |
@@ -27,8 +19,12 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 | [CodeTable](https://code.hackerearth.com)|x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|-|
 | [C++ Shell](http://cpp.sh)|-|x|-|-|-|-|-|-|-|
 
-Unspecified:
-* [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal in the browser
+Also check this list:
+  * https://github.com/arnemertz/online-compilers/blob/master/index.md
+
+## Useful web-apps for developers
+
+* [OnlineGDB](https://www.onlinegdb.com) - Online GDB debugger (c/c++/python)
 * [CompilerExplorer](https://godbolt.org) - Generate assembler code for specific compiler
 * [disassembler.io](http://disassembler.io) - Online disassembler
 * [shell-storm asm/disasm](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online assembler and disassembler
