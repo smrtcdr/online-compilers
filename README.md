@@ -28,13 +28,12 @@ Here you can find a list of online tools for coding. Most of them are web fronte
 | [C++ Shell](http://cpp.sh)|-|x|-|-|-|-|-|-|-|
 
 Unspecified:
-* [Xterm.js](https://github.com/xtermjs/xterm.js)
-* [CompilerExplorer](https://godbolt.org)
-* [Radare2](http://cloud.radare.org/enyo)
-* [disassembler.io](http://disassembler.io)
-* [shell-storm asm/disasm](http://shell-storm.org/online/Online-Assembler-and-Disassembler/)
-* [LearnC](https://www.learn-c.org)/[C++](https://www.learn-cpp.org)/[C#](https://www.learncs.org) (on [Sphere Engine](https://sphere-engine.com))
-* [Learn Python](https://www.learnpython.org) (on [DataCamp](https://www.datacamp.com))
+* [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal in the browser
+* [CompilerExplorer](https://godbolt.org) - Generate assembler code for specific compiler
+* [disassembler.io](http://disassembler.io) - Online Disassembler
+* [shell-storm asm/disasm](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online Assembler and Disassembler
+* [LearnC](https://www.learn-c.org)/[C++](https://www.learn-cpp.org)/[C#](https://www.learncs.org) (on [Sphere Engine](https://sphere-engine.com)) - Interactive Tutorials on C/C++
+* [Learn Python](https://www.learnpython.org) (on [DataCamp](https://www.datacamp.com)) - Interactive Tutorials on Python
 
 ## List of online shells
 
