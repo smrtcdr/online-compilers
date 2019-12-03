@@ -1,6 +1,6 @@
 # Online Tools
 
-Here you can find a list of online tools for coding. Most of them are web frontends for compilers and programs running on remote server. Whenever possible, links to corresponding GitHub projects will be given. 
+Here you can find a list of online tools for coding. Most of them are web front-ends for compilers and programs on remote server. Whenever possible, links to corresponding GitHub projects will be given. 
 
 ## List of online IDEs
 
@@ -28,7 +28,7 @@ Also check this list:
 * [CompilerExplorer](https://godbolt.org) - Generate assembler code for specific compiler
 * [disassembler.io](http://disassembler.io) - Online disassembler
 * [shell-storm asm/disasm](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online assembler and disassembler
-* [LearnC](https://www.learn-c.org)/[C++](https://www.learn-cpp.org)/[C#](https://www.learncs.org) (on [Sphere Engine](https://sphere-engine.com)) - Interactive tutorials on C/C++
+* [LearnC](https://www.learn-c.org)/[C++](https://www.learn-cpp.org)/[C#](https://www.learncs.org) (on [Sphere Engine](https://sphere-engine.com)) - Interactive tutorials on c/c++
 * [Learn Python](https://www.learnpython.org) (on [DataCamp](https://www.datacamp.com)) - Interactive tutorials on python
 
 ## List of online shells
