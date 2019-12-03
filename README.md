@@ -19,8 +19,7 @@ Here you can find a list of online tools for coding. Most of them are web front-
 | [CodeTable](https://code.hackerearth.com)|x|x|x|x|x|C++14|[HackerEarth](https://www.hackerearth.com/docs/api/developers/code/v3/)|-|-|
 | [C++ Shell](http://cpp.sh)|-|x|-|-|-|-|-|-|-|
 
-Also check this list:
-  * https://github.com/arnemertz/online-compilers/blob/master/index.md
+Also check this list:   https://github.com/arnemertz/online-compilers/blob/master/index.md
 
 ## Useful web-apps for developers
 
